@@ -1,6 +1,6 @@
 # 🧠 Stroke Prediction Using Neural Networks
 
-This project predicts the likelihood of a stroke using a neural network trained on health data.
+This project predicts the likelihood of stroke using a neural network trained on health metrics including demographics, medical history, and lifestyle factors.
 
 ## 🚀 Features
 - Preprocessing: Encoding, binning, SMOTE for class balancing
